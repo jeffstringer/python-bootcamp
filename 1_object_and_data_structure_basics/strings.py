@@ -48,3 +48,7 @@ print('hello world'.split())
 
 # string interpolation
 print(f'My awesome string is {my_string}')
+
+# more modern string interpolation?
+name = Python
+print('Hi, %s.' % name)
